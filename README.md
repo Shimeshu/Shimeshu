@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, gaming, studying and content creation.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on some amazing projects.
-- 📫 You can mail me on: mailto:sh_topper@outlook.com
+- 📫 You can mail me on: <a>sh_topper@outlook.com</a>
 - 📫 You can follow me on: https://www.quora.com/Shimeshu/
 
 <!---
