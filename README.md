@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shimeshu
+- 👋 Hi, I’m Shimeshu
 - 👀 I’m interested in programming, gaming, studying and content creation.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on some amazing projects.
